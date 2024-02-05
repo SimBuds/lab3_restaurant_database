@@ -1,3 +1,4 @@
+// Lab 3 - Casey Hsu - 101376814
 const express = require('express');
 const mongoose = require('mongoose');
 const Restaurant = require('./Restaurant');
